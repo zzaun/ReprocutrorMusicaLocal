@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="asarPy" />
+          <option value="Cython" />
+          <option value="et_xmlfile" />
+          <option value="Mako" />
+          <option value="Markdown" />
+          <option value="MarkupSafe" />
+          <option value="meson" />
+          <option value="openpyxl" />
+          <option value="packaging" />
+          <option value="PyOpenGL" />
+          <option value="setuptools" />
+          <option value="wheel" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
